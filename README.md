@@ -6,7 +6,7 @@
 
 <ol>
         <li>Go to <a href="https://epicgames.com/account">your EpicGames account settings</a></li>
-        <li><button onclick="const caracter = 'ﱞ';navigator.clipboard.writeText(caracter).then(() => alert('Copied!')).catch(err => alert('Error: ' + err));">Copy this character</button></li>
+        <li><button onclick="const character = 'ﱞ';if (navigator.clipboard.writeText) navigator.clipboard.writeText(character).then(() => alert('Copied!'));else alert('Clipboard API is not supported or is blocked by the browser.');">Copy</button><a href="https://pastebin.com/raw/DehYde2m">this character</a></li>
         <li>Change your username to the one you want and paste the character more than once in some parts of it (For example: jﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞgc988ﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞ4)</li>
         <li>Your username will show without that character ingame (not on the EpicGames Launcher, etc.)</li>
 </ol>
