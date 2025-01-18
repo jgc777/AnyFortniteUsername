@@ -1,6 +1,8 @@
 # AnyFortniteUsername
 "Use" any Fortnite username, including alredy-claimed ones.
 ## Tutorial
+> See it on the web
+
 1. Go to [your EpicGames account settings](https://epicgames.com/account)
 2. <button onclick="navigator.clipboard.writeText('ﱞ').then(() => alert('Copied!')).catch(err => alert('Error: ' + err));">Copy this character</button>
 3. Change your username to the one you want and paste the character more than once in some parts of it (For example: jﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞgc988ﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞ4)
