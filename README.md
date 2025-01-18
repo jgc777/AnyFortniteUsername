@@ -1,5 +1,6 @@
 # AnyFortniteUsername
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+![Documentation](https://img.shields.io/badge/Documentation-black?style=for-the-badge)
 
 "Get" any Fortnite username, including alredy-claimed ones.
 
