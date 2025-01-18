@@ -1,4 +1,5 @@
 # AnyFortniteUsername
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 "Use" any Fortnite username, including alredy-claimed ones.
 
 ## Tutorial
